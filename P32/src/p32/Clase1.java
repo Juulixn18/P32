@@ -5,5 +5,6 @@ public class Clase1 {
         System.out.println("Hola, soy la clase Main");
         Clase2 saludo = new Clase2();
         saludo.saludar("Fenix");
+        saludo.saludar();
     }
 }
